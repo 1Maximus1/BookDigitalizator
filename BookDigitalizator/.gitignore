@@ -37,4 +37,4 @@ build/
 ### Mac OS ###
 .DS_Store
 
-/BookDigitalizatorPro/src/main/resources/hibernate.properties
+src/main/resources/hibernate.properties
